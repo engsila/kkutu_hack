@@ -1,7 +1,7 @@
 from selenium import webdriver
 import time
 l=0
-my_id = 'LOBing'
+my_id = '' # 자신의 끄투 닉네임 적기
 last_word=' '
 round_tmp = []
 add_word=[]
