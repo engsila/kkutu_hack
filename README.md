@@ -1,6 +1,6 @@
 # kkutu_hack
 
-Link: [Google][googlelink]
+Link: [Google][google.co.kr/]
 ---------------------------------------
 ### 도구
 * python
