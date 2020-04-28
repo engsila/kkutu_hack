@@ -1,5 +1,8 @@
 # kkutu_hack
 
+### 끄투 코리아
+### python, selenium, postgresql, chromedriver, javascript 사용
+
 ##### 1대1을 생각하며 단어를 받아오고, 전송하기까지 가장 빠른 속도를 목적으로 구상했기 때문에 3명 이상에서 같이 플레이 하면 오류가 납니다.
 ##### postgresql을 이용하여 매너, 어인정 모드를 킨 상태의 단어들을 걸러 no_no_kill.txt 파일에 저장했습니다.
 
