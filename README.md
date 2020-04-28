@@ -1,6 +1,6 @@
 # kkutu_hack
 
-Link: [끄투코리아][https://kkutu.co.kr]
+###끄투코리아 - https://kkutu.co.kr
 
 ---------------------------------------
 ### 도구
