@@ -1,4 +1,4 @@
-# kkutu_hack for two people
+# kkutu_hack_for_two_people
 
 ### 끄투코리아 - https://kkutu.co.kr
 
